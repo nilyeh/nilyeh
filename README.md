@@ -4,29 +4,49 @@
 
 Welcome to my Github profile
 
-    🔭 🌱 I’m currently learning SQL, Azure Cloud Platforms, SQL, Data Engineering 
+      🔭 🌱 I’m currently learning more about Azure and GCP Cloud Platforms, SQL, and Data Engineering.
+  
 
-LinkedIn Twitter Gmail
-Skills :
-📋Languages
 
-Python 
-📈 DA & DS
+Skills:
 
-scikit-learn Matplotlib NumPy Pandas Power Bi Tableau
-📚Frameworks/Platforms
+📋 Languages:
+
+Python
+SQL
+
+📈 Data Analysis & Data Science:
+
+scikit-learn
+Seaborn
+Matplotlib
+NumPy
+Pandas
+XGBoost
+LightGBM
+t-SNE
+K-Means
+Power BI
+Tableau
+
+📚 Frameworks/Platforms:
 
 Anaconda
-💾Database
 
-MySQL SQL
-🔬 Version Control and CI/CD
+💾 Databases:
 
-Git GitHub
-💻IDE's/Editors
+MySQL
+SQL
 
-Jupyter Notebook RStudio Visual Studio Code
+🔬 Version Control and CI/CD:
 
+Git
+GitHub
+
+💻 IDEs/Editors:
+
+ Visual Studio Code, Jupyter Notebook
+ 
 <!---
 nilyeh/nilyeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
