@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @nilyeh
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Data Engineering
 
 Welcome to my Github profile
 
